@@ -1,10 +1,10 @@
- my interests ◞◞ ♡ 
+ <b> my interests ◞◞ ♡ </b>
 
 ⸝⸝
 
 <details>
 <summary> movies, shows & media 𓏲ꪆ</summary>
-<p align="center"> <b>stranger things,</b> marvel, arcane, spiderman, xmen, gravity falls, eddsworld, hannibal, alien stage, sing street, heathers 1989, 500 days of summer, dead poets society, bridgerton, wednesday, good omens, but im a cheerleader, beetlejuice, fearstreet trilogy, jugface, kamikaze girls, hell of a summer, the goldfinch, the outsiders, the incredibly true adventure of two girls in love, IT, summer timemachine blues, kids return, peep "tv" shows, memories of matsuko, sonic, call me by your name, leviticus, bottoms, brooklyn 99, that '70s show, i am not okay with this, etc</p>
+<p align="center"> <b>stranger things,</b> marvel, arcane, spiderman, xmen, gravity falls, eddsworld, hannibal, alien stage, sing street, heathers 1989, 500 days of summer, dead poets society, pjotv, bridgerton, wednesday, good omens, but im a cheerleader, beetlejuice, fearstreet trilogy, jugface, kamikaze girls, hell of a summer, the goldfinch, the outsiders, the incredibly true adventure of two girls in love, IT, summer timemachine blues, kids return, peep "tv" shows, memories of matsuko, sonic, call me by your name, leviticus, bottoms, brooklyn 99, that '70s show, i am not okay with this, etc</p>
 </details>
 
 ⸝⸝
