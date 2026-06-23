@@ -11,7 +11,7 @@
 
 <details>
 <summary> youtube & content creators 𓏲ꪆ</summary>
-<p align="center"> <b>bunch of friends,</b> kubz scouts, sinjin drowning, slushy noobz, coryxkenshin, friends from work, flamingo, anthpo, princezam, ashswag, squiddo, jumperwho, dani polarcub, jalin siu, not even emily, mico, faline san, angelika devera, duncanyounot, benoftheweek, etc </p>
+<p align="center"> <b>bunch of friends,</b> kubz scouts, sinjin drowning, slushy noobz, coryxkenshin, friends from work, flamingo, anthpo, princezam, ashswag, squiddo, jumperwho, jacksepticeye, dani polarcub, jalin siu, not even emily, mico, faline san, angelika devera, duncanyounot, benoftheweek, markiplier, etc </p>
 </details>
 
 ⸝⸝
