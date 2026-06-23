@@ -40,4 +40,6 @@
 <details>
 <summary> important note!! please read before making any assumptions. .ᐟ.ᐟ</summary>
 <p align="center"> if any of these media feature problematic creators, actors, or other, <b>please</b> know that i do not support them or their actions. my enjoyment of these works is not an endorsement of the people behind them.</p>
+
+<p align="center"> i do not interact with <b>most</b> of the fandoms tied to my interests, but if you're in one of them, feel free to interact. i do not mind. </p>
 </details>
