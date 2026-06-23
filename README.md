@@ -1,4 +1,4 @@
- <b> my interests ◞◞ ♡ </b>
+ <b> my interests </b>
 
 ⸝⸝
 
@@ -39,5 +39,5 @@
 
 <details>
 <summary> important note!! please read before making any assumptions. .ᐟ.ᐟ</summary>
-<p align="center"> if any of these media feature problematic creators, actors, or contributors, <b>please</b> know that i do not support them or their actions. my enjoyment of these works is not an endorsement of the people behind them.</p>
+<p align="center"> if any of these media feature problematic creators, actors, or other, <b>please</b> know that i do not support them or their actions. my enjoyment of these works is not an endorsement of the people behind them.</p>
 </details>
